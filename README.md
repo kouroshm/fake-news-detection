@@ -27,7 +27,6 @@ in order to find a better model.
 ## Requirements
 To install the requirements enter the following code after cloning the project:\
 ```pip install -r requirements.txt```\
-Make sure the data is in the same repo as the cloned repo and it is unzipped to run the program.\
 to run preprocessing and train the model you can run\
 `python3 train.py`\
 To get the prediction for the test and all the evaluation run:\
