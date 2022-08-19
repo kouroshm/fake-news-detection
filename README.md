@@ -19,6 +19,12 @@ The model was tested based on three metrics:
 
 <img align="left" src="index.png">
 
+
+
+
+
+
+
 The confusion matrix can bring out the recall and precision of the model and shows how the overall performance of the model is in detecting the classes.
 
 ## Future Improvements
