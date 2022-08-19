@@ -25,6 +25,6 @@ In order to improve the model performance the number of epochs can go higher and
 in order to find a better model.
 
 ## Requirements
-To install the requirements enter the following code after cloning the project:
-`pip install -r requirements.txt`
+To install the requirements enter the following code after cloning the project:\n
+```pip install -r requirements.txt```
 
