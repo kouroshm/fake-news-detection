@@ -15,4 +15,4 @@ The model was tested based on three metrics:
 **F1 Score**: The f1 score showed 65%.
 **Accuracy Score**: The accuracy score was 63%
 **Confusion Matrix**: The confusion matrix was drawn and the result is as followed:
-![confusion-matrix](index.jpg)
+![confusion-matrix](index.png)
