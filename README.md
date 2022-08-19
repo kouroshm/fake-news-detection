@@ -18,3 +18,9 @@ The model was tested based on three metrics:
 
 
 <img align="left" src="index.png">
+
+The confusion matrix can bring out the recall and precision of the model and shows how the overall performance of the model is in detecting the classes.
+
+## Future Improvements
+In order to improve the model performance the number of epochs can go higher and the batch size can be changed. Also, more models should be tested
+in order to find a better model.
