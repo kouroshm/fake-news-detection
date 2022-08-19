@@ -16,14 +16,9 @@ The model was tested based on three metrics:
 **Accuracy Score**: The accuracy score was 63%
 **Confusion Matrix**: The confusion matrix was drawn and the result is as followed:
 
-
-<img align="left" src="index.png">
-
-
-
-
-
-
+<p>
+  <img align="left" src="index.png">
+</p>
 
 The confusion matrix can bring out the recall and precision of the model and shows how the overall performance of the model is in detecting the classes.
 
