@@ -23,3 +23,7 @@ The confusion matrix can bring out the recall and precision of the model and sho
 ## Future Improvements
 In order to improve the model performance the number of epochs can go higher and the batch size can be changed. Also, more models should be tested
 in order to find a better model.
+
+## Requirements
+To install the requirements enter the following code after cloning the project:
+`pip install -r requirements.txt`
